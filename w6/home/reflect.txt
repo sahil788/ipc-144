@@ -1,0 +1,14 @@
+name    : Sahil Nimeshkumar Lapsiwala
+id      : 132584160
+mail    : snlapsiwala@myseneca.ca
+section : M
+
+1) a function is a collection of commands to perform a task by using the commands repeatedly,to perform a given task the need for
+ using function in every language is that it returns more than one value an d can update the calling variable without modifying the whole code.  
+
+2)In both the function addpositive and subtractpositive functions have less degree of coupling
+  hence better modularity and both the functions are reusable.the functions are reusable as we only assign the task of doing some 
+  thing to the function so while coding we can call the same function but assign different values to it.
+
+3)data can be send to function by calling that function and get the data back when that function 
+  returns the value to the caller.  

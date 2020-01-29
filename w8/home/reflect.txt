@@ -1,0 +1,23 @@
+
+Name          : Sahil Nimeshkumar Lapsiwala
+Student number: 132584160
+Email         : snlapsiwala@myseneca.ca
+Workshop      : 8
+Section       : M
+Date          :22/03/2017
+
+
+1)when passing the array with bracket it is passed by value
+Ex  fun(ARRAY[]);
+When passing array without bracket it is passed by address
+Ex   fun(ARRAY);
+
+2)When an array is passed by address ,the function can not know the size of array so we pass an additional int parameter size that helps the function to know 
+the size of array ,in this workshop we have done this by passing an additional parameterint size in the function.
+
+3)when we mention const for array parameters it value remaains const as we pass the array parameters by address,whereas when we don't mention const it value changes as 
+it is passed by value
+
+
+
+

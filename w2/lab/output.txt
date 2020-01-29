@@ -1,0 +1,9 @@
+Script started on Fri 27 Jan 2017 10:41:51 AM EST
+snlapsiwala@matrix:~/w2/lab> ws
+Please enter the amount to be paid: $8.68
+Loonies required: 8, balance owing $0.68
+Quarters required: 2, balance owing $0.18
+snlapsiwala@matrix:~/w2/lab> exit
+exit
+
+Script done on Fri 27 Jan 2017 10:42:59 AM EST

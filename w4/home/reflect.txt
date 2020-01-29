@@ -1,0 +1,14 @@
+/*********************************************************
+Name:     Sahil Nimeshkumar Lapsiwala
+ID:       132-584-160
+Section:  M
+*********************************************************/
+
+1)Arrays in this program have to be declared to hold 10 elements,
+   as the highest no of entries which are to be done are 10 so there should be enough space to hold the values.
+
+2)The advantages and disadvantages of using matching arrays are
+ we can compare two different types of arrays and more than one value by using matchoing arrays.
+but we cannot compare the array declared with int with the array declared with char data type.
+
+3)  The at home part of workshop was just right as we had to only add some things in the in lab part and use do while with multiple selection iteration.

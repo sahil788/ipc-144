@@ -1,0 +1,10 @@
+
+In line number 6 of your output:
+The output should be:
+Day 1 - High: 6
+But your output is: 
+
+^
+|
+Professor's character ASCII code: hex(44), dec(68)
+un-matched character ASCII code: hex(d), dec(13)

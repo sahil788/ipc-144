@@ -1,0 +1,39 @@
+ -------------------------------------------------
+    Name:       Sahil Nimeshkumar Lapsiwala
+    Email:      snlapsiwala@myseneca.ca
+    Workshop:   WS10_at_home
+    Date:       2017-04-11
+    Section:    MM
+ -------------------------------------------------
+
+
+1) the difference between string an array of chars is that sting includes a null terminator while array of char does not.
+
+2) scanf("%10[^\n]",&val);
+
+3)It returns 0 as both the addresses of string match.
+
+4) It will need 7 bytes as to accomodate null terminator.
+
+5)The most important thing i learned this semester was to develop logic of code
+  and how to format the code using style guidelines.
+
+6)Yes the quizes pushed me to read the topics and helped me to understand well when the topic was taught.
+
+7)The course was delivered in a good manner as we read the topics beforehand due to 
+   the quizes
+
+8)No there are no such things.
+
+9)No the deliveration of course was perfect.
+
+10) a. Very good
+
+11) Yes, i enjoyed them as it pushed me to think in diffrent ways of coding and open 
+    my mind to think.
+
+12)yes the LabA activities were very interesting.
+
+13)yes they helped me so much to think like a programmer.
+
+14)b.Just right

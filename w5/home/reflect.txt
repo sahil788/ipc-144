@@ -1,0 +1,12 @@
+/*
+Name: Sahil Nimeshkumar Lapsiwala
+Student number:132584160
+Email:snlapsiwala@myseneca.ca
+Workshop: 5
+Section: M
+Date: 22/02/2017
+*/
+1) Using array of structs it would be easy and convenient to store the data and retrieve  it compared to parallel arrays.
+It would also avoid confusion.
+
+2) Preferred  method of  declaring  the struct data type is in header file because later it can be used universally in program  or in main function,whenever required .

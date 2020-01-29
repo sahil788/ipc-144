@@ -1,0 +1,10 @@
+
+In line number 58 of your output:
+The output should be:
+     123     101.15
+But your output is: 
+     123    101.15
+            ^
+------------|
+Professor's character ASCII code: hex(20), dec(32)
+un-matched character ASCII code: hex(31), dec(49)

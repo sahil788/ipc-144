@@ -1,0 +1,10 @@
+
+In line number 121 of your output:
+The output should be:
+The book exists in the repository!
+But your output is: 
+The book exits in the repository!
+            ^
+------------|
+Professor's character ASCII code: hex(73), dec(115)
+un-matched character ASCII code: hex(74), dec(116)

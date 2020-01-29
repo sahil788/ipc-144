@@ -1,0 +1,35 @@
+Name:Sahil Nimeshkumar Lapsiwala
+
+Student number: 132584160
+
+Email: snlapsiwala@myseneca.ca
+
+Workshop: 7
+
+Section: M
+
+Date: 13/3/2017
+
+1)the advantage of using passing values from function using parameters is when local variable is changed is changes the 
+otput of varuable instantaly but in retuen type it does not change.
+
+2)derefrencing means the "contents of" what its pointing to
+eg in code(
+void decompose(long long const phoneNum, int *areacode, int *prefix, int *lineNum)
+
+{
+	
+*areacode = phoneNum / 10000000;
+	
+*prefix = (phoneNum % 10000000) / 10000;
+	
+*lineNum = (phoneNum % 1000000) % 10000;
+
+}
+decompose(phoneNumber[i], &areacode, &prefix, &lineNum);
+)
+
+3)contents of what the pointer is pointing to in memory
+for eg(int sum =52
+       int *value 
+        value=&sum) it indirecty points to the value stored in addres of sum.

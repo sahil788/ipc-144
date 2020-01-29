@@ -1,0 +1,10 @@
+
+In line number 18 of your output:
+The output should be:
+Apply Discount: Y
+But your output is: 
+Apply Discount : Y
+              ^
+--------------|
+Professor's character ASCII code: hex(3a), dec(58)
+un-matched character ASCII code: hex(20), dec(32)

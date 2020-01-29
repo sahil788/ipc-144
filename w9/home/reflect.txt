@@ -1,0 +1,15 @@
+ -------------------------------------------------
+    Name:       Sahil Nimeshkumar Lapsiwala
+    Email:      snlapsiwala@myseneca.ca
+    Workshop:   WS9_at_home
+    Date:       2017-04-04
+    Section:    MM
+ -------------------------------------------------
+
+1)
+  the possible returning values of function read Record are 1 to 5 as it will scan how much lines are there 
+  in the file.
+2)
+  the difference in opening a file in r, w, a+ mode is that in r mode it only opens the file for reading,
+  in w mode it opens the file for reading and possibly writing and in a+ mode it opens the file for reading and adding 
+  text to the file in which some text is already ther i.e appending the file.

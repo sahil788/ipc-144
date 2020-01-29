@@ -1,0 +1,10 @@
+
+In line number 10 of your output:
+The output should be:
+Anakin Skywalker (365) 555-0110 Jedi Master
+But your output is: 
+Anakin Skywalker (365) 555-0110 Jedi Record
+                                     ^
+-------------------------------------|
+Professor's character ASCII code: hex(4d), dec(77)
+un-matched character ASCII code: hex(52), dec(82)
